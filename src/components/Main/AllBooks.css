@@ -1,0 +1,11 @@
+.comment-area-height {
+    max-height: 100vh;
+    overflow-y: auto;
+}
+
+.comment-area-fixed {
+    position: fixed;
+    top: 0; 
+    right: 0; 
+    width: 30%; 
+}

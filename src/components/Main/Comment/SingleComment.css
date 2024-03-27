@@ -1,0 +1,14 @@
+img.profile-img {
+    width: 2em;
+    height: 2em;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.span-dark {
+    color: black;
+}
+
+.span-light {
+    color: white;
+}
